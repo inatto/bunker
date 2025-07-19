@@ -1,0 +1,14 @@
+{
+  "name": "inatto/bunker",
+  "description": "Framework PHP seco, direto e blindado.",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Inatto\\Bunker\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=8.2"
+  }
+}
