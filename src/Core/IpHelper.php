@@ -2,7 +2,6 @@
 
 namespace Inatto\Bunker\Core;
 
-
 class IpHelper
 {
     public static function getClientIp(): string
